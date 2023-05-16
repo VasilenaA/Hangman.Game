@@ -1,5 +1,6 @@
 # Hangman.Game
 I had a task to make the game " hangman" as a course project.
+In Bulgarian is called "Бесеница"(Besenica)
 The condition I was working on:
 To develop an app that mimics the game Hangman. The application to contain the following functionality:
 - a form to add new words and categories and delete existing ones
